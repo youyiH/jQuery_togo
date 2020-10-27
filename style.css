@@ -24,14 +24,14 @@ nav span {
 
 section {
   height: 100vh;
-  background: #1166ff;
+  background: #729DE8;
   font-size: 72px;
   text-align: center;
   color: #fff;
 }
 
 section:nth-of-type(2) {
-  background: #996633;
+  background: #F59AAB;
 }
 
 #toTop {
