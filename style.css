@@ -12,17 +12,32 @@ nav {
   width: 100%;
   padding: 30px;
   background: rgba(0, 0, 0, 0.6);
-  color: #FFF;
+  color: #fff;
 }
 
 nav span {
   display: inline-block;
   padding: 10px 30px;
   cursor: pointer;
+  font-size: 24px;
 }
 
 section {
   height: 100vh;
   background: #1166ff;
+  font-size: 72px;
+  text-align: center;
+  color: #fff;
+}
+
+section:nth-of-type(2) {
+  background: #996633;
+}
+
+#toTop {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  cursor: pointer;
 }
 /*# sourceMappingURL=style.css.map */
