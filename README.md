@@ -4,6 +4,8 @@ jQuery練習
 # 範例網站
 https://youyih.github.io/jQuery_togo/
 
+
+放在 <body> 最下方
 ```
 <!-- jQuery CDN -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
